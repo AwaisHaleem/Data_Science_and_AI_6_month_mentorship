@@ -1,0 +1,16 @@
+Top 10 vs extentions for DS:
+- python
+- Pylance
+- jupytor
+- jupytor cell tags
+- jupytor notebook rendereres
+- jupytor slideshow
+- prettier
+- github pull reqeusts and issues
+- GitHub Copilot
+- R
+- Autopep8
+- Jupyter Slide Show
+- Markdown All in One
+- Markdown Shortcuts
+- Markdown Lint
