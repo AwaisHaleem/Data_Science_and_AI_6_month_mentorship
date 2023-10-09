@@ -15,6 +15,7 @@ print(type(age))  # int class
 # 5. short and descriptive variable
 # 6. case senstivity
 
+
 fruit_basket = "mango", 'orange'
 print(fruit_basket)
 print(type(fruit_basket))
